@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehedi-hasan-shoib-1b7b35258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hasan-shoib-1b7b35258" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-mehedi-hasan-shoib-1b7b35258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mehedi-hasan-shoib-1b7b35258" height="30" width="40" /></a>
 <a href="https://fb.com/mehedihasan.shoib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mehedihasan.shoib" height="30" width="40" /></a>
 <a href="https://instagram.com/mehedi_hasan_shoib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehedi_hasan_shoib" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shoib15-5511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shoib15-5511" height="30" width="40" /></a>
